@@ -1,0 +1,8 @@
+
+`
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ó‚Š
+c
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(âÔ¾Íøÿÿÿÿ
+k
+java:S4488%"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(îì›8Î€–÷/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜìŸä
